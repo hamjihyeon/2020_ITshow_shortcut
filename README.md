@@ -1,4 +1,4 @@
-지름길(Shortcut)
+지름길(Shortcut)🏃‍♀
 =======
 AI 스피커 NUGU 단축키 서비스
 
