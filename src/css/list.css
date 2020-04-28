@@ -1,10 +1,6 @@
 
-        ul li {
-            list-style-type: none;
-            float: left;
-            margin-left: 20px;
-            text-align: center;
-            border: none;
+        .row {
+            margin:0 auto;
             
         }
         select{
@@ -12,6 +8,8 @@
             height: 50px;
             font-size: 15px;
             border: none;
+            text-align-last: center;
+            vertical-align:middle;
         }
         input{
             width: 500px;
@@ -30,7 +28,7 @@
           
        }
        
-       img {
+       .searchImg {
            height: 30px;
            width: 30px;
        }
